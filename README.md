@@ -10,7 +10,7 @@ Use TDD to build a class that will compute the prime factors for any given numbe
 2. Roman Numerals<br />
 Build a class that will automatically translate a number into its roman numeral counterpart.
 <br />
-3. Bowling Game
+3. Bowling Game<br />
 Recreate the scoring system for a game of bowling.
 We deal with scoring spares, or strikes, or multiple strikes!
 <br />
