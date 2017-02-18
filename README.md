@@ -27,4 +27,4 @@ Review the obligatory FizzBuzz exercise, and learn just how easy it is to solve.
 Tackle the intimidating Gilded Rose kata in PHP. Our job is to translate a monstrously confusing set of countless conditionals into a small series of readable methods. 
 <br />
 
-### Thank you for checking out the programming challengs!
+### Thank you for checking out the programming challenges!
